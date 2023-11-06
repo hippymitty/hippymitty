@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working within Robotics for the Marine Industry
+- 🪐 I’m currently learning Orbital Mechanics 
+- 🦕 Love Dinosaurs (favourite is the Australovenator)
+- 👩‍🚀 Aspiring Astronaut
 <!--
 **hippymitty/hippymitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
