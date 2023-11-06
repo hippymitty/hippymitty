@@ -3,6 +3,7 @@
 - 🪐 I’m currently learning Orbital Mechanics 
 - 🦕 Love Dinosaurs (favourite is the Australovenator)
 - 👩‍🚀 Aspiring Astronaut
+- ⚡ Fun fact: I'm also a Diving Instructor!
 <!--
 **hippymitty/hippymitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
