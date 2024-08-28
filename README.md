@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working within Robotics for the Marine Industry
-- 🪐 I’m currently learning Orbital Mechanics 
+- 🔭 I’m currently working on Australias First Lunar Rover! Aside from that I work on Robotics for the Space and Marine Industry
+- 🪐 I’m currently learning Orbital Mechanics, and Planetary Science
 - 🦕 Love Dinosaurs (favourite is the Australovenator)
 - 👩‍🚀 Aspiring Astronaut
 - ⚡ Fun fact: I'm also a Diving Instructor!
